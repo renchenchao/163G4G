@@ -1,0 +1,7 @@
+SQL> select sysdate from dual;
+
+SYSDATE                                                                         
+--------------                                                                  
+16-3?? -18                                                                      
+
+SQL> spool off
